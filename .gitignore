@@ -1,0 +1,11 @@
+# .gitignore
+*.db
+*.db-shm
+*.db-wal
+bin/
+obj/
+.vs/
+node_modules/
+dist/
+.angular/
+*.user
