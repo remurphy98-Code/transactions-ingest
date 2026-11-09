@@ -6,7 +6,7 @@
 - Grok (xAI)
 
 ## Prompts / Instructions Given
-The full coding exercise PDF was provided with the request to implement the Transactions Ingest application from scratch (ASP.NET 10, EF Core + SQLite, Angular frontend, reconciliation logic, audit history, idempotency, etc.).
+The full coding exercise PDF was provided with the request to implement the basics of the Transactions Ingest application from scratch (ASP.NET 10, EF Core + SQLite, Angular frontend, reconciliation logic, audit history, idempotency, etc.).
 
 Key instructions included:
 - Follow all functional, API, frontend, and non-functional requirements
